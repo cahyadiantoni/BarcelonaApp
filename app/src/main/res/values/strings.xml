@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FC Barcelona Squad</string>
+
+    <string name="players_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+
+    <string name="desc_aplikasi">Aplikasi ini adalah aplikasi untuk penggemar klub sepak bola Barcelona. Dalam aplikasi ini menampilkan pemain Barcelona terupdate serta Detail dari masing masing pemain FC Barcelona.</string>
+    <string name="ok">Oke</string>
+    <string name="posisi">Posisi</string>
+    <string name="nama_pemain">Nama Pemain</string>
+    <string name="ttl_appearances">Appearances</string>
+    <string name="appearances">720</string>
+    <string name="ttl_goals">Goals</string>
+    <string name="goals">20</string>
+    <string name="ttl_assists">Assists</string>
+    <string name="assists">25</string>
+    <string name="isi_description">Sergio Busquets is probably the best defensive midfielder in the world. He stands out for his technical ability and his unsurpassed reading of the game</string>
+    <string name="ttl_overview">Overview</string>
+    <string name="overview">Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers.</string>
+    <string name="players_foto">Player Photo</string>
+    <string name="logo_barcelona">Logo Barcelona</string>
+    <string name="nama_developer">Cahya Diantoni</string>
+    <string name="job_developer">Android Developer</string>
+    <string name="icon_email">Icon Email</string>
+    <string name="email">cahyadiantoni@gmail.com</string>
+    <string name="icon_wa">Icon Whatsapp</string>
+    <string name="wa">+6281919480565</string>
+    <string name="icon_lokasi">Icon Lokasi</string>
+    <string name="lokasi">Cikarang Selatan, Kab. Bekasi</string>
+    <string name="icon_github">Icon Github</string>
+    <string name="github">cahya_diantoni</string>
+
+</resources>
